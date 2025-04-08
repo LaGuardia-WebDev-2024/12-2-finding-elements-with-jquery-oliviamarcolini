@@ -5,3 +5,8 @@ body{
 li{
   font-style: italic;
 }
+
+button{
+  color: pink;
+  background-color: aliceblue;
+}
